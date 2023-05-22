@@ -13,4 +13,4 @@ min_value = float(input("Enter minimum limit: "))
 if meet_minimum(total, min_value):
     print("Total price meets the minimum")
 else:
-     print("Total price does not meet the minimum")
+     print("Total price does not meet the minimum1")
